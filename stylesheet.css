@@ -1,0 +1,74 @@
+.banner {
+    background-color: red;
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
+
+html, body {
+background: rgb(33,33,33);
+color: white;
+font-family: monaco;
+scroll-behavior: smooth;
+}
+.container {
+    padding-top: 10%;
+}
+
+.headshot {
+    width: 95%;
+    border-radius: 50%;
+    padding: 10px;
+}
+.falink {
+    color: royalblue;
+    text-decoration: none;
+    padding: 5px;
+}
+.falink:hover {
+    color: rgb(0,250,0);
+}
+
+
+.hyperlink {
+    color: orange;
+}
+.hyperlink:hover {
+    color: white;
+    background-color: rgb(199,0,0);
+    text-decoration: none;
+}
+
+.pastwork {
+padding-top: 20px;
+}
+.footer {
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(0,0,99)
+}
+.projectcontainer {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.certimg {
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.download {
+    background-color: red;
+    padding: 20px;
+}
+
+.download:hover {
+    background-color: green;
+}
+.downloadlink {
+    text-decoration: none;
+    color: white;
+}
+.downloadlink:hover {
+    text-decoration: none;
+    color: white;
+}
