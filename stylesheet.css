@@ -38,6 +38,22 @@ scroll-behavior: smooth;
     background-color: rgb(199,0,0);
     text-decoration: none;
 }
+.tipbutton {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(50,50,250);
+    width: 300px;
+    padding: 15px;
+    border-radius: 20px;
+}
+.tipcontainer {
+    padding: 15px;
+}   
+.tipbutton:hover {
+    color: white;
+    background-color: green;
+}
+
 .footer {
     width: 100%;
     padding: 20px;
